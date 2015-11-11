@@ -1,0 +1,3 @@
+[submodule "to-be-deleted"]
+	path = to-be-deleted
+	url = https://github.com/winksaville/to-be-deleted.git
